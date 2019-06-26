@@ -25,7 +25,7 @@ module.exports = {
     {
       icon: 'fa-instagram',
       name: 'Instagram',
-      url: 'https://twitter.com/5hivam_bhatt',
+      url: 'https://instagram.com/5hivam_bhatt',
     },
     {
       icon: 'fa-facebook',
